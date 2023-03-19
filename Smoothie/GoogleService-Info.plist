@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>468839860374-a9rnv8cvs59toavrs0s6psj5bst0pen9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.468839860374-a9rnv8cvs59toavrs0s6psj5bst0pen9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhT7lzu7Y8j_W9lnhK6SDYMdto0ZK00hE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>468839860374</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ears.Zo.Smoothie</string>
+	<key>PROJECT_ID</key>
+	<string>smoothie-e4d95</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smoothie-e4d95.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:468839860374:ios:339b950d6bcd6e8d8b9ab7</string>
+</dict>
+</plist>
